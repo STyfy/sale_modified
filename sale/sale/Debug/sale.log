@@ -1,0 +1,15 @@
+﻿Build started 2015/4/19 13:34:36.
+     1>Project "D:\vs  community\VC\vcprojects\控制台\sale\sale\sale.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\vs  community\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "sale secord.cpp"
+         sale secord.cpp
+     1>d:\vs  community\vc\vcprojects\控制台\sale\sale\sale secord.cpp(40): warning C4101: 'n' : unreferenced local variable
+     1>d:\vs  community\vc\vcprojects\控制台\sale\sale\sale secord.cpp(39): warning C4101: 'menu' : unreferenced local variable
+       Link:
+         D:\vs  community\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs  community\VC\vcprojects\控制台\sale\Debug\sale.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs  community\VC\vcprojects\控制台\sale\Debug\sale.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs  community\VC\vcprojects\控制台\sale\Debug\sale.lib" /MACHINE:X86 "Debug\sale secord.obj"
+         sale.vcxproj -> D:\vs  community\VC\vcprojects\控制台\sale\Debug\sale.exe
+     1>Done Building Project "D:\vs  community\VC\vcprojects\控制台\sale\sale\sale.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84
